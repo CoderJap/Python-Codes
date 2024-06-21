@@ -20,3 +20,4 @@ print(s)
 # s.remove(8) - updates the sets and removes 8 from s 
 # s.pop() - removes an random element from the set and returns the element removed 
 # s.clear() - empties the set
+# also union and intersection etc
